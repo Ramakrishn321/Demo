@@ -6,11 +6,11 @@
   </head>
   editing in atom homepage
   <body>
- HEAD
+<<<<<<< HEAD
 i am in branch
-Head
 editing in branch homepage with vim
+=======
 changes are done in github
-
+>>>>>>> master
   </body>
 </html>
